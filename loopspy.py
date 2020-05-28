@@ -24,7 +24,6 @@ for pair in phone_numbers.items():
 # better way to iterate a dictionary
 for key, value in phone_numbers.items():
     print(f"{key} has as phone number {value}")
-    print("%s has as phone number %s" %key %value)
 
 # while loop
 a = 5
